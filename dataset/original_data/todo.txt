@@ -1,4 +1,0 @@
-Required tests: 
-
-TEST-NEUTRAL (Jordan)
-TEST-CONCENTRATING (Jordan)
