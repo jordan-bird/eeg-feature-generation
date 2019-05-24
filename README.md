@@ -1,2 +1,5 @@
-# eeg-feature-extraction
-Private Github Repo of Armada18
+# eeg\_armada18
+
+## Usage
+python src/generateTrainingMatrix.py dataset/original_data/ out.csv
+
