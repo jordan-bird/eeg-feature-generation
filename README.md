@@ -69,9 +69,9 @@ Add more features
 Diagrams for this readme to show what is going on a bit better
 
 ## Acknowledgements
-Special thanks to these guys for their expert guidance and supervision for the research projects mentioned
-*Dr. Diego R. Faria*
-*Dr. Luis J. Manso*
-*Dr. Felipe Campelo* 
+Special thanks to these guys for their expert guidance and supervision for the research projects mentioned  
+*Dr. Diego R. Faria*  
+*Dr. Luis J. Manso*  
+*Dr. Felipe Campelo*   
 
 
