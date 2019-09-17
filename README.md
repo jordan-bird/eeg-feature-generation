@@ -51,11 +51,11 @@ We have been slowly growing this list of features over time through multiple res
   pages={449--460},  
   year={2019},  
   organization={Springer}  
-}
+}  
 
 
 
-If you cannot access any of these papers, preprints are available on my [ResearchGate Profile](https://www.researchgate.net/profile/Jordan_Bird2)
+If you cannot access any of these papers, all preprints are available on my [ResearchGate Profile](https://www.researchgate.net/profile/Jordan_Bird2)
 
 ## What features are generated?
 Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933-0_37) for the full description of features generated (I removed them from here because the readme got far too long!)
@@ -64,9 +64,9 @@ Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933
 
 
 ## To Do
-Make the final column to be ignored optional
-Add more features
-Diagrams for this readme to show what is going on a bit better
+Make the final column to be ignored optional  
+Add more features  
+Diagrams for this readme to show what is going on a bit better  
 
 ## Acknowledgements
 Special thanks to these guys for their expert guidance and supervision for the research projects mentioned  
