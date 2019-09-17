@@ -60,6 +60,9 @@ If you cannot access any of these papers, all preprints are available on my [Res
 ## What features are generated?
 Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933-0_37) for the full description of features generated (I removed them from here because the readme got far too long!)
 
+## How do I add a new class?
+In *generateTrainingMatrix.py* there are the cases for mental state classes (see line 31 onwards), simply add/remove cases here and make sure they all have a unique integer state. This integer is inserted into the final column (after all features) of the class in the output
+
 
 
 
@@ -73,5 +76,11 @@ Special thanks to these guys for their expert guidance and supervision for the r
 *Dr. Diego R. Faria*  
 *Dr. Luis J. Manso*  
 *Dr. Felipe Campelo*   
+
+## Questions? 
+Contact me on birdj1@aston.ac.uk
+
+Thanks,  
+[Jordan J. Bird](http://jordanjamesbird.com/)
 
 
