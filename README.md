@@ -13,13 +13,13 @@ We have been slowly growing this list of features over time through multiple res
 
 [A Study on Mental State Classification using EEG-based Brain-Machine Interface](https://ieeexplore.ieee.org/abstract/document/8710576) - this work first proposes the technique and features. We used them to classify mental state. 
 
-@inproceedings{bird2018study,
-  title={A study on mental state classification using eeg-based brain-machine interface},
-  author={Bird, Jordan J and Manso, Luis J and Ribeiro, Eduardo P and Ek{\'a}rt, Anik{\'o} and Faria, Diego R},
-  booktitle={2018 International Conference on Intelligent Systems (IS)},
-  pages={795--800},
-  year={2018},
-  organization={IEEE}
+@inproceedings{bird2018study,  
+  title={A study on mental state classification using eeg-based brain-machine interface},  
+  author={Bird, Jordan J and Manso, Luis J and Ribeiro, Eduardo P and Ek{\'a}rt, Anik{\'o} and Faria, Diego R},  
+  booktitle={2018 International Conference on Intelligent Systems (IS)},  
+  pages={795--800},  
+  year={2018},  
+  organization={IEEE}  
 }
 
 [Mental Emotional Sentiment Classification with an EEG based Brain-Machine Interface](https://www.researchgate.net/profile/Jordan_Bird2/publication/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface/links/5c2f74c092851c22a35975c5/Mental-Emotional-Sentiment-Classification-with-an-EEG-based-Brain-machine-Interface.pdf) - this work applies the technique to classification of emotional experiences
