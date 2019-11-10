@@ -1,6 +1,9 @@
 ## What is this?
 This script will take EEG brainwaves and create a static dataset through a sliding window approach. Overlapping windows consider wave data and many mathematical attributes are generated in order to describe the wave. This means for Machine Learning you're not classifying point-data and thus temporal techniques such as an LSTM are no longer necessary 
 
+The script is set to resample and generate a dataset from the csv data format exported by Alexandre Barachant's [MuseLSL](https://github.com/alexandrebarachant/muse-lsl)
+
+
 ## Usage
 There is demo Muse EEG data under *dataset/original_data/*
 
@@ -72,6 +75,8 @@ Add more features
 Diagrams for this readme to show what is going on a bit better  
 
 ## Acknowledgements
+Thank you to Alexandre Barachant for his work on [MuseLSL](https://github.com/alexandrebarachant/muse-lsl)
+
 Special thanks to these guys for their expert guidance and supervision for the research projects mentioned  
 *Dr. Diego R. Faria*  
 *Dr. Luis J. Manso*  
