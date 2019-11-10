@@ -9,7 +9,13 @@ There is demo Muse EEG data under *dataset/original_data/*
 
 Notice that there is a noise column at the end of the CSV, this would be the Right AUX input to the Muse. The script will ignore this column, so make sure you add a column of zeroes to the end.
 
+Run the following code:
+
 python src/generateTrainingMatrix.py dataset/original_data/ out.csv
+
+This specifies the feature extraction script, where the data is stored, and where the final dataset will be output.
+
+Class names are taken from the filename (see example data). If you would like to add custom classes, scroll down to "How do I add a new class?"
 
 ## Where do these features come from?
 We have been slowly growing this list of features over time through multiple research papers. If you do use this, please be sure to cite **all** related works:
