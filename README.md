@@ -17,6 +17,12 @@ This specifies the feature extraction script, where the data is stored, and wher
 
 Class names are taken from the filename (see example data). If you would like to add custom classes, scroll down to "How do I add a new class?"
 
+## What features are generated?
+Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933-0_37) for the full description of features generated (I removed them from here because the readme got far too long!)
+
+## How do I add a new class?
+In *generateTrainingMatrix.py* there are the cases for mental state classes (see line 31 onwards), simply add/remove cases here and make sure they all have a unique integer state. This integer is inserted into the final column (after all features) of the class in the output
+
 ## Where do these features come from?
 We have been slowly growing this list of features over time through multiple research papers. If you do use this, please be sure to cite **all** related works:
 
@@ -65,14 +71,6 @@ We have been slowly growing this list of features over time through multiple res
 
 
 If you cannot access any of these papers, all preprints are available on my [ResearchGate Profile](https://www.researchgate.net/profile/Jordan_Bird2)
-
-## What features are generated?
-Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933-0_37) for the full description of features generated (I removed them from here because the readme got far too long!)
-
-## How do I add a new class?
-In *generateTrainingMatrix.py* there are the cases for mental state classes (see line 31 onwards), simply add/remove cases here and make sure they all have a unique integer state. This integer is inserted into the final column (after all features) of the class in the output
-
-
 
 
 ## To Do
