@@ -24,7 +24,7 @@ Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933
 In *generateTrainingMatrix.py* there are the cases for mental state classes (see line 31 onwards), simply add/remove cases here and make sure they all have a unique integer state. This integer is inserted into the final column (after all features) of the class in the output
 
 ## Where do these features come from?
-We have been slowly growing this list of features over time through multiple research papers. If you do use this, please be sure to cite **all** related works:
+We have been slowly growing this list of features over time through multiple research papers.
 
 [A Study on Mental State Classification using EEG-based Brain-Machine Interface](https://ieeexplore.ieee.org/abstract/document/8710576) - this work first proposes the technique and features. We used them to classify mental state. 
 
