@@ -11,7 +11,7 @@ Notice that there is a noise column at the end of the CSV, this would be the Rig
 
 Run the following code:
 
-python src/generateTrainingMatrix.py dataset/original_data/ out.csv
+python src/EEG_generate_training_matrix.py dataset/original_data/ out.csv
 
 This specifies the feature extraction script, where the data is stored, and where the final dataset will be output.
 
@@ -21,7 +21,7 @@ Class names are taken from the filename (see example data). If you would like to
 Please see [this work](https://link.springer.com/chapter/10.1007/978-3-030-29933-0_37) for the full description of features generated (I removed them from here because the readme got far too long!)
 
 ## How do I add a new class?
-In *generateTrainingMatrix.py* there are the cases for mental state classes (see line 31 onwards), simply add/remove cases here and make sure they all have a unique integer state. This integer is inserted into the final column (after all features) of the class in the output
+In *EEG_generate_training_matrix.py* there are the cases for mental state classes (see line 31 onwards), simply add/remove cases here and make sure they all have a unique integer state. This integer is inserted into the final column (after all features) of the class in the output
 
 ## Where do these features come from?
 We have been slowly growing this list of features over time through multiple research papers.
