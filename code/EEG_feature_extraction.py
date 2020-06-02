@@ -632,7 +632,7 @@ def feature_fft(matrix, period = 1., mains_f = 50.,
 	# Compute the (absolute values of the) FFT
 	# Extract only the first half of each FFT vector, since all the information
 	# is contained there (by construction the FFT returns a symmetric vector).
-	fft_values = np.abs(scipy.fftpack.fft(matrix, axis = 0))[0:N//2] * 2 / N
+	fft_values = np.abs(scipy.fft.fft(matrix, axis = 0))[0:N//2] * 2 / N
 	
 	# Compute the corresponding frequencies of the FFT components
 	freqs = np.linspace(0.0, 1.0 / (2.0 * T), N//2)
