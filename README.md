@@ -81,7 +81,7 @@ Diagrams for this readme to show what is going on a bit better
 ## Acknowledgements
 Thank you to Alexandre Barachant for his work on [MuseLSL](https://github.com/alexandrebarachant/muse-lsl)
 
-Special thanks to these guys for their expert guidance and supervision for the research projects mentioned  
+Special thanks to my former colleagues for their expert guidance and supervision for the research projects mentioned:
 *Dr. Diego R. Faria*  
 *Dr. Luis J. Manso*  
 *Dr. Felipe Campelo*   
