@@ -87,7 +87,7 @@ Special thanks to my former colleagues for their expert guidance and supervision
 *Dr. Felipe Campelo*   
 
 ## Questions? 
-Contact me on birdj1@aston.ac.uk
+Contact me on jordan.bird@ntu.ac.uk
 
 Thanks,  
 [Jordan J. Bird](http://jordanjamesbird.com/)
