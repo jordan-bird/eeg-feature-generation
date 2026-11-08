@@ -50,7 +50,7 @@ def gen_training_matrix(directory_path, output_file, cols_to_ignore):
 			continue
 		try:
 			name, state, _ = x[:-4].split('-')
-		except:
+		except ValueError:
 			print ('Wrong file name', x)
 			sys.exit(-1)
 		if state.lower() == 'concentrating':
